@@ -16,6 +16,7 @@ export default function Home() {
         <h1>Carsome</h1>
         <div className={styles.thirteen}>
           .in <br />
+          .co.in <br />
           .uk
           <br />
           .us
